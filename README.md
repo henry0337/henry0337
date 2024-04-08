@@ -8,7 +8,7 @@ I've been learning to code for 2 years
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [hung03072003@gmail.com](mailto:hung03072003@gmail.com)
-* 🧠  I'm learning Spring Framework
+* 🧠  I'm learning Spring Framework for backend and Android Native for frontend now
 * 🤝  I'm open to collaborating on any kind of Android-based projects
 
 ### Skills
