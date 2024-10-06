@@ -1,5 +1,5 @@
 <h1 align="center">Rất vui vì đã đọc 👋, mình là Quốc Hưng</h1>
-<h3 align="center">Một Android Native dev non nớt kinh nghiệm</h3>
+<h3 align="center">Một lập trình viên Android Native non nớt kinh nghiệm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry0337&label=S%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20xem%20trang%20c%C3%A1%20nh%C3%A2n&color=0e75b6&style=flat" alt="henry0337" /> </p>
 
