@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henry0337" alt="henry0337" /></a> </p>
 
-- 💬 Nếu bạn muốn hỏi thì hãy hỏi về: **Java, Kotlin, Android Framework hoặc những thứ liên quan**
+- 💬 Nếu bạn muốn hỏi thì hãy hỏi về: **Java, Kotlin, Android Native hoặc những thứ liên quan**
 
 - 📫 Liên hệ với mình qua email hoặc Discord: **quochung2337@gmail.com (email) hoặc @_henry203 (Discord)**
 
